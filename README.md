@@ -26,9 +26,11 @@
 
 </p>
 
-<a href="https://github.com/Kush-munot/github-readme-activity-graph"><img alt="Kush Munot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mrugal4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p>
+<a href="#"><img alt="Kush Munot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mrugal4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrugal4&show_icons=true&locale=en&layout=compact" alt="Mrugal4" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrugal4&show_icons=true&locale=en&layout=compact" alt="Mrugal4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrugal4&show_icons=true&locale=en" alt="Mrugal4" /></p>
 
